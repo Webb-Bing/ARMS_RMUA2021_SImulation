@@ -1,0 +1,61 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - CV_camera_object
+  - B1
+  - B2
+  - R1
+  - R2
+  - BuffZone
+  - BuffZone1
+  - BuffZone2
+  - BuffZone3
+  - BuffZone4
+  - BuffZone5
+  - BuffZone6
+  - RearArmor
+  - RLArmor
+  - FrontArmor
+  - baseBoard
+  - projectile
+  - Outpost
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
