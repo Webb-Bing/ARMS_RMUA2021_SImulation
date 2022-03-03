@@ -1,6 +1,7 @@
 # ARMS
 ## Ausdroid RoboMaster Simulation
 
+联系方式：webbbing123@outlook.com
 
 ![avatar](https://github.com/Team-Ausdroid-Unimelb/ARMS/blob/master/1.png)
 ![avatar](https://github.com/Team-Ausdroid-Unimelb/ARMS/blob/master/2.png)
